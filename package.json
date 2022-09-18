@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ashishsinghalgithub.lwc-l87km4wl-fork-l87kosdb",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KvkKojYF6fEPq2OuoCIc --open"
+  }
+}
